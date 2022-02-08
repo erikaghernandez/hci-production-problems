@@ -24,11 +24,11 @@ Let’s start with something fun: a typeface-pairing game.
 3. Make a record of your paired typefaces here (Name and URL on Google Fonts):
 
    Typeface One:
-     - Name:
-     - URL:
+     - Name: Sansita
+     - URL: https://fonts.google.com/specimen/Sansita?preview.text=age&preview.text_type=custom
    Typeface Two:
-     - Name:
-     - URL:
+     - Name: Source Sans Pro
+     - URL: https://fonts.google.com/specimen/Source+Sans+Pro?query=source+sans&preview.text=age&preview.text_type=custom
 
 4. Next, here in the `pp-01` directory, work with the starter HTML file to set up some content to
    show off your pairing and explain briefly why you chose the typefaces you did. The most basic
