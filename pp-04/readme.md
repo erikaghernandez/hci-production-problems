@@ -29,6 +29,7 @@ a repository on a team member’s computer. **That will be your shared repositor
             https://github.com/ITM362Project
 
 4. Copy and paste the URL showing your team’s GitHub organization members here:
+            https://github.com/orgs/ITM362Project/people
 
 5. Copy and paste the URL for your team’s shared repository for Project Two here:
 
