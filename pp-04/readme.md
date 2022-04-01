@@ -26,6 +26,7 @@ organization. Initializing it on GitHub with a `README.md` file is fine, unless 
 a repository on a team member’s computer. **That will be your shared repository for Project Two.**
 
 3. Copy and paste the URL for your team’s GitHub organization here:
+            https://github.com/ITM362Project
 
 4. Copy and paste the URL showing your team’s GitHub organization members here:
 
