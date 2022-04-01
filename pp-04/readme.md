@@ -32,6 +32,7 @@ a repository on a team member’s computer. **That will be your shared repositor
             https://github.com/orgs/ITM362Project/people
 
 5. Copy and paste the URL for your team’s shared repository for Project Two here:
+            https://github.com/ITM362Project/online-store
 
 6. Each member of the team should then fork the team repository from within the team organization
 on GitHub (so, too, should the team member who created the GitHub organization for your project).
