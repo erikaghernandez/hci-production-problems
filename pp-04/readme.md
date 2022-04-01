@@ -46,6 +46,11 @@ second remote. Run `git remote add upstream` followed by the URL for your teamâ€
 
 Write or copy & paste the output of `git remote -v` from your copy of the forked repository here:
 
+            origin	git@github.com:erikaghernandez/online-store.git (fetch)
+            origin	git@github.com:erikaghernandez/online-store.git (push)
+            upstream	git@github.com:ITM362Project/online-store.git (fetch)
+            upstream	git@github.com:ITM362Project/online-store.git (push)
+
 8. Next, on a feature branch called `self-intro`, all team members should add their names to the
 `README.md` file, along with brief sentence or two of what the member believes are his/her primary
 strengths. Prior to creating the `self-intro` branch, be sure to pull from the remote repo (`git
