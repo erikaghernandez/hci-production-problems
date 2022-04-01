@@ -58,6 +58,7 @@ pull upstream main`) to get any other team members’ names and strengths. Add a
 work, and push to your own repository (`git push origin self-intro`).
 
 Copy and paste the URL of your pull request here:
+            https://github.com/ITM362Project/online-store/pull/1
 
 9. Finally, within your fork of the repository on GitHub, open up a pull request from your
 `self-intro` branch to `main` branch in the shared  repository. Each team member should review the
