@@ -19,7 +19,7 @@ for your first (and second) round of usability testing.
 1.
 https://cronuts.digital/en/the-25-key-points-of-digital-usability/
 
-2.
+2.https://internetdevels.com/blog/50-point-checklist-for-website-usability-testing 
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
@@ -31,8 +31,10 @@ https://cronuts.digital/en/the-25-key-points-of-digital-usability/
   user experience because if they see a contact/feedback area then they are more likely to click
   and provide feedback
 5.Concise and Explanatory: Content is easy to understand and organized. The content can be justified and is relevant.
-6.
-7.
-8.
-9.
-10.
+6.Cross-platform responsive design
+7.Page layout in a way that makes it easier for search engine optimization
+8.Eye flow: Let colors be the designer’s domain. All colors should be in harmony with your brand,
+  so the designer should be aware of certain details about the company in order to combine
+  everything perfectly.
+9.Form organization: It is better to place similar questions together.
+10.Minimize input: input you will gain more accurate data. Don’t ask for things that are not necessary.
